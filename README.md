@@ -35,7 +35,6 @@ Welcome to the Proxima project repository! This web application uses CRUD operat
 5. Start the server using: `npm start`
 
 # Links
-- [Live-Link](https://proxima-client.netlify.app/)
-- [Front-End-Link](https://github.com/Shm-Rsuf/proxima-client)
-- [Back-End-Link](https://github.com/Shm-Rsuf/proxima-server)
+- [Live-Link](https://cliantproject.vercel.app/login)
+
 # cliantproject
